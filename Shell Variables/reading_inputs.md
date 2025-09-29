@@ -13,7 +13,9 @@ pwn.college{AHNjNvcR_MEVCED_qoumJh0n8TA.QX4cTN0wyM3MzNzEzW}
 ```
 
 ## What I learned
-explain what you learned
+I learnt how to read inputs for variables here.
+firstly, "read -p "textshowntouser" <nameofvariable>"
+and then we can "$nameofvariable" to show us the variable.
 
 ## References 
-Add any references or videos u used while solving the challenge.
+None.
